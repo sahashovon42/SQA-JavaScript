@@ -1,5 +1,5 @@
-## My SAQ js Files##
+## My SAQ js Files
 
-## Class files
+### Class files
 
 Problem solving with js
